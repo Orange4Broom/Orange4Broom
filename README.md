@@ -8,4 +8,4 @@
 
 ## Tools
 
-[![My Tools](https://skillicons.dev/icons?i=figma,vscode,vim,neovim,docker,netlify,bash)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=figma,vscode,vim,neovim,docker,netlify)](https://skillicons.dev)
