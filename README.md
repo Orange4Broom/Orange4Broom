@@ -8,4 +8,4 @@
 
 ## Tools
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,gitlab,stackoverflow,netlify,replit,docker,figma,ai,)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=figma,ai,vscode,git,github,gitlab,stackoverflow,netlify,replit,docker,)](https://skillicons.dev)
