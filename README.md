@@ -5,3 +5,7 @@
 ## Technologies
 
 [![My Technologies](https://skillicons.dev/icons?i=react,linux)](https://skillicons.dev)
+
+## Tools
+
+[![My Tools](https://skillicons.dev/icons?i=figma,vscode,vim,neovim,docker,netlify,bash)](https://skillicons.dev)
