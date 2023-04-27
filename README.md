@@ -1,10 +1,10 @@
-## Technologies
-
-[![My Technologies](https://skillicons.dev/icons?i=react,vite,nodejs,postgres,mysql,linux)](https://skillicons.dev)
-
 ## Languages
 
 [![My Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,java,)](https://skillicons.dev)
+
+## Technologies
+
+[![My Technologies](https://skillicons.dev/icons?i=react,vite,nodejs,postgres,mysql,linux)](https://skillicons.dev)
 
 ## Tools
 
