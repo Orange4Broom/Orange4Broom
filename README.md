@@ -1,11 +1,11 @@
 ## Technologies
 
-[![My Technologies](https://skillicons.dev/icons?i=react,linux)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=react,vue,nodejslinux,postgres)](https://skillicons.dev)
 
 ## Languages
 
-[![My Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts, java)](https://skillicons.dev)
 
 ## Tools
 
-[![My Tools](https://skillicons.dev/icons?i=figma,ai,vscode,discord,git,github,gitlab,stackoverflow,netlify,replit,codepen,docker,postgres,)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=figma,ai,vscode,discord,git,github,gitlab,stackoverflow,netlify,replit,codepen,docker,,)](https://skillicons.dev)
