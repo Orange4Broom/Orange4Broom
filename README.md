@@ -1,6 +1,6 @@
 ## Technologies
 
-[![My Technologies](https://skillicons.dev/icons?i=react,vue,nodejslinux,postgres)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=react,vue,nodejs,linux,postgres)](https://skillicons.dev)
 
 ## Languages
 
