@@ -1,6 +1,6 @@
 ## Technologies
 
-[![My Technologies](https://skillicons.dev/icons?i=react,vue,nodejs,postgres,linux)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=react,vue,nodejs,postgres,mysql,linux)](https://skillicons.dev)
 
 ## Languages
 
@@ -8,4 +8,4 @@
 
 ## Tools
 
-[![My Tools](https://skillicons.dev/icons?i=figma,ai,xd,vscode,discord,git,github,gitlab,stackoverflow,netlify,replit,codepen,docker,,)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=figma,ai,xd,vscode,discord,git,github,gitlab,stackoverflow,devto,netlify,replit,codepen,docker,,)](https://skillicons.dev)
