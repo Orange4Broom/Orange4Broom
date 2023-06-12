@@ -1,6 +1,10 @@
-## Todoapp
+### Todoapp
 
 [![wakatime](https://wakatime.com/badge/github/Orange4Broom/todoapp.svg)](https://wakatime.com/badge/github/Orange4Broom/todoapp)
+
+### RT-shop
+
+[![wakatime](https://wakatime.com/badge/github/Orange4Broom/rt-shop.svg)](https://wakatime.com/badge/github/Orange4Broom/rt-shop)
 
 ## Languages
 
