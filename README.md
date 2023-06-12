@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/github/Orange4Broom/todoapp.svg)](https://wakatime.com/badge/github/Orange4Broom/todoapp)
+
 ## Languages
 
 [![My Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,)](https://skillicons.dev)
