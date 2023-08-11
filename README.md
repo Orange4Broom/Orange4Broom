@@ -1,6 +1,6 @@
 ### Todoapp
 
-[![wakatime](https://wakatime.com/badge/github/Orange4Broom/todoapp.svg)](https://wakatime.com/badge/github/Orange4Broom/todoapp)
+[![wakatime](https://wakatime.com/badge/github/Orange4Broom/reservations.svg)](https://wakatime.com/badge/github/Orange4Broom/todoapp)
 
 ### RT-shop
 
