@@ -1,10 +1,10 @@
+### WakaTime
+
+[![wakatime](https://wakatime.com/badge/user/3980be74-2864-4271-852e-6dee8c991902.svg)](https://wakatime.com/@3980be74-2864-4271-852e-6dee8c991902)
+
 ### Reservations
 
 [![wakatime](https://wakatime.com/badge/github/Orange4Broom/reservations.svg)](https://wakatime.com/badge/github/Orange4Broom/reservations)
-
-### RT-shop
-
-[![wakatime](https://wakatime.com/badge/github/Orange4Broom/rt-shop.svg)](https://wakatime.com/badge/github/Orange4Broom/rt-shop)
 
 ## Languages
 
