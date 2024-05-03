@@ -1,12 +1,9 @@
 # Orange Broom's Profile
 
-<div align="left">
-  <img height=200 src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20someone%20eat%20healthy%20food,%20he%20will%20be%20healthy,%20and%20if%20someone%20eat%20unhealthy%20food,%20he%20will%20be%20unhealthy.">
-</div>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20someone%20eat%20healthy%20food,%20he%20will%20be%20healthy,%20and%20if%20someone%20eat%20unhealthy%20food,%20he%20will%20be%20unhealthy.)](https://github.com/Orange4Broom/github-readme-quotes)
 
-<div align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Orange4Broom&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Orange4Broom&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Orange4Broom)
+
 
 ## 🌟 About Me
 
