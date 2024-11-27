@@ -15,7 +15,7 @@ Let's make the web a more vibrant and playful place! 🎉
 
 ## 💻 Languages
 
-[![My Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,c)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,c,bash)](https://skillicons.dev)
 
 ## 🛠️ Technologies
 
