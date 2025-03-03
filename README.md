@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-Hey there! 👋 I'm Orange Broom, a 19-year-old web development enthusiast 🚀 Currently in my final year of studies, I'm deeply passionate about coding and design.
+Hey there! 👋 I'm Orange Broom, a 19-year-old web development enthusiast 🚀 I'm deeply passionate about coding and design.
 
 I started exploring web development over a year ago and I've been hooked ever since. 🎨 I love crafting clean code and designing beautiful websites. ✨
 
